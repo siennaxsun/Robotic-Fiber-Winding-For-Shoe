@@ -1,6 +1,6 @@
 # AdidiTech: Robotic Fiber-Winding Sneaker Design
 
-![sneaker-design](images/sneaker-cover.jpg)
+![sneaker-design](image/shoe-cover.jpg)
 
 ## 🧵 Overview
 
